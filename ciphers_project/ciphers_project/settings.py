@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "ciphers-service-u87h.onrender.com",
     "localhost",
-    "https://pavanpandya.us/numbers-frontend/"
+    "https://pavanpandya.us"
 ]
 
 
