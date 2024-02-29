@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-h_!98xuy#b5@vnryukv*&9sqn&csw2b92r^_atm&#@e08yw6d+
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://ciphers-service-u87h.onrender.com",
+    "ciphers-service-u87h.onrender.com",
     "localhost",
 ]
 
