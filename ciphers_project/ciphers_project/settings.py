@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-h_!98xuy#b5@vnryukv*&9sqn&csw2b92r^_atm&#@e08yw6d+
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://ciphers-service-u87h.onrender.com"
+    "https://ciphers-service-u87h.onrender.com",
+    "localhost",
 ]
 
 
@@ -132,4 +133,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://pavanpandya.github.io",
     "http://localhost:8000",
     "http://localhost:3000",
+    "http://localhost:8001",
 ]
